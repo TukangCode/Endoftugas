@@ -1,2 +1,2 @@
-# TugasAkhir
+#EndOfTugas
 This is Tugas!
